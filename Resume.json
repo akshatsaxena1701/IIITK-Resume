@@ -1,0 +1,58 @@
+{
+"basics": {
+    "name": "Akshat Saxena",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/57311199?v=4",
+    "email": "akshatsaxena1701@gmail.com",
+    "phone": "9530102022",
+    "website": "akshatsaxena1701.github.io",
+    "summary": "Pre-Final Year | GDSC Lead'21 | MERN Stack Developer",
+    "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Jaipur",
+        "countryCode": "India",
+        "region": "Rajasthan"
+    },
+    "profiles": [
+        {
+            "network": "Github",
+            "username": "akshatsaxena1701",
+            "url": "https://www.github.com/akshatsaxena1701/"
+        },
+        {
+            "network": "linkedin",
+            "username": "akshat-saxena-2504121ab",
+            "url": "https://www.linkedin.com/in/akshat-saxena-2504121ab/"
+        }
+    ]
+},
+"volunteer": [{
+    "organization": "GDSC IIIT Kota",
+    "position": "Core Team Member",
+    "website": "",
+    "startDate": "2020-09-01",
+    "endDate": "2021-05-20",
+    "summary": "Core Team Member @ DSC IIIT Kota , facilitated events and workshops under the same.",
+    "highlights": ["Technical Co-lead for Animate'21 - Hackathon conducted by DSC-IIIT Kota "]
+}],
+"education": [{
+    "institution": "Indian Institute of Information technology,Kota",
+    "area": "Engineering",
+    "studyType": "Bachelor (hons)",
+    "startDate": "2019-04-08 //Date",
+    "endDate": "Present",
+    "gpa": "8.95",
+    "courses": [
+        "Computer Science & Engineering"
+    ]
+}],
+"skills": [{
+    "level": "Intermediate",
+    "keywords": ["C/C++ (Data Structures and Algorithms)","HTML", "CSS", "Javascript", "React","NodeJS","Express","MongoDB"]
+}],
+"interests": [{
+    "name": "Sports",
+    "keywords": ["Badminton"]
+}]
+}
